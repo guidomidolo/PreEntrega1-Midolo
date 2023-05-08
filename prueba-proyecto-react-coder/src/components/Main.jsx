@@ -1,6 +1,6 @@
 const Main = () => {
     return (
-        <div classNameName="container-fluid">
+        <div className="container-fluid">
             <div className="row">
                 <div className="col-md-8 offset-md-2">
                     <div id="carouselExample" className="carousel slide">
