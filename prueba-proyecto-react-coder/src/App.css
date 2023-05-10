@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "RazerF5"; 
+  src: local("RazerF5"),
+    url("./components/fonts/RazerF5.otf") format("truetype");
+}
