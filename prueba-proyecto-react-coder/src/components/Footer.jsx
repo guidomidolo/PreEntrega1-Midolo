@@ -45,10 +45,10 @@ const Footer = () => {
                     <h6>Company</h6>
                 </div>
                 <div className="col-md-4 text-end">
-                    <p style={{color:"#44d62c", fontFamily : "RazerF5"}}>FOR GAMERS, BY GAMERS.</p>
-                    <a href="/" className="text-light me-2"><img src={Facebook} alt={"Facebook"} width={24} /></a>
-                    <a href="/" className="text-light me-2"><img src={Instagram} alt={"Instagram"} width={24} /></a>
-                    <a href="/" className="text-light me-2"><img src={Twitter} alt={"Twitter"} width={24} /></a>
+                    <p style={{color:"#44d62c", fontFamily : "RazerF5"}}>FOR GAMERS, BY GAMERS.™</p>
+                    <a href="/" className="text-light me-3"><img src={Facebook} alt={"Facebook"} width={24} /></a>
+                    <a href="/" className="text-light me-3"><img src={Instagram} alt={"Instagram"} width={24} /></a>
+                    <a href="/" className="text-light"><img src={Twitter} alt={"Twitter"} width={24} /></a>
                 </div>
             </div>
         </div>
