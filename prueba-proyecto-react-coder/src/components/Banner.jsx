@@ -6,6 +6,11 @@ const Banner = () => {
                     <img src="./images/viva-la-chroma-homepage-desktop.jpg" alt="Viva la Chroma" className="img-fluid"/>
                 </div>
             </div>
+            <div className="row">
+                <div className="col g-0">
+                    <img src="./images/razer-blade.jpg" alt="Razer Blade" className="img-fluid"/>
+                </div>
+            </div>
         </div>
     )
 }
