@@ -8,7 +8,7 @@ import CallToAction from './components/CallToAction';
 
 function App() {
   return (
-    <div className="container-fluid">
+    <div>
       <Header />
       <CallToAction />
       <Banner />

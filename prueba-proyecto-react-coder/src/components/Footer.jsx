@@ -5,7 +5,7 @@ import Twitter from "./images/twitter.svg";
 const Footer = () => {
     return (
         <div className="container-fluid bg-dark text-white p-5">
-            <div className="row mx-0">
+            <div className="row">
                 <div className="col-md-2">
                     <h6>Shop</h6>
                     {/* <ul class="pb-2"style={{ listStyleType : "none"}}>
