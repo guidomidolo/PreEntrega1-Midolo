@@ -1,4 +1,4 @@
-const NavBar = () => {
+    const NavBar = () => {
     return (
         <ul className="nav justify-content-evenly">
             <li className="nav-item active">

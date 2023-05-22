@@ -12,7 +12,7 @@ function App() {
       <Header />
       <CallToAction />
       <Banner />
-      <ItemListContainer greeting={"No se encontraron productos."}/>
+      <ItemListContainer />
       <Footer /> 
     </div>
   );
