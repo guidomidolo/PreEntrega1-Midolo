@@ -17,7 +17,7 @@ const Fetch = () => {
         <div className="row">
             <h4 class="pt-3" style={{ fontFamily: "RazerF5" , fontSize : 40}}>Productos</h4>
             {
-            // ItemList.jsx
+            // ItemDetailContainer.jsx
             datos.map(item => 
                 // ItemDetail.jsx
                 <div key={item.id} className="col-md-2 p-3">
@@ -30,7 +30,7 @@ const Fetch = () => {
                 </div>
                 // ItemDetail.jsx
                 )    
-            // ItemList.jsx
+            // ItemDetailContainer.jsx
             }           
         </div>
     )
