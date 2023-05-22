@@ -24,7 +24,9 @@ const Fetch = () => {
                     <div className="card">
                         <img src={item.thumbnail} className="card-img-top" alt={item.title} />
                             <div className="card-body">
-                                <p className="card-text"><b>{item.title}</b><br/>${item.price}</p>
+                                <p className="card-text" style={{ fontFamily: "RazerF5" }}><b>{item.title}</b></p>
+                                <p className="card-text" style={{ fontFamily: "RazerF5", color: "#44d62c" }}><b>${item.price}</b></p>
+
                             </div>
                      </div>
                 </div>
